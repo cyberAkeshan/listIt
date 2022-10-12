@@ -4,10 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#373F47"
-    android:backgroundTint="#373F47"
-    tools:context=".MainActivity">
 
+    tools:context=".MainActivity">
+<!--    android:background="#373F47"
+    android:backgroundTint="#373F47"
+    hintergrund grau-->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/addFab"
         android:layout_width="wrap_content"
