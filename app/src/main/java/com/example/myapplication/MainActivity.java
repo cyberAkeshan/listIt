@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
         addListButton.setOnClickListener(v -> {
             Context context = getApplicationContext();
-            Toast.makeText(context, "hello213", Toast.LENGTH_SHORT).show();
+            Toast.makeText(context, "hello", Toast.LENGTH_SHORT).show();
         });
     }
     public boolean onCreateOptionsMenu (Menu menu){
