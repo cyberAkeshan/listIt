@@ -5,8 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
+    android:background="@color/white"
     tools:context=".MainActivity">
-<!--    android:background="#373F47"
+    <!--    android:background="#373F47"
     android:backgroundTint="#373F47"
     hintergrund grau-->
     <com.google.android.material.floatingactionbutton.FloatingActionButton
