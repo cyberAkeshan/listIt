@@ -5,6 +5,8 @@
         <item name="colorPrimary">@color/light_green</item>
         <item name="colorPrimaryVariant">@color/darker_green</item>
         <item name="colorOnPrimary">@color/grey</item>
+        <item name="colorSurface">@color/light_green</item>
+        <item name="colorSecondary">@color/grey</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->

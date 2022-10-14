@@ -4,7 +4,7 @@
 
         <SwitchPreferenceCompat
             app:key="dark"
-            app:title="@string/darkmode_title" />
+            app:title="@string/darkmode_title"/>
 
         <ListPreference
             app:defaultValue="reply"
