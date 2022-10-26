@@ -33,7 +33,7 @@ public class SettingsActivity extends AppCompatActivity {
         @Override
         public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
             setPreferencesFromResource(R.xml.root_preferences, rootKey);
-            SwitchPreference darkmode = findPreference("dark");
+            /*SwitchPreference darkmode = findPreference("dark");
 
             darkmode.setOnPreferenceChangeListener(
                     new Preference.OnPreferenceChangeListener() {
@@ -43,7 +43,7 @@ public class SettingsActivity extends AppCompatActivity {
                             return true;
                         }
                     }
-            );
+            );*/
         }
     }
     //override function so the back button has functionality
